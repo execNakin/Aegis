@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+data/*.csv
+models/*.joblib
+opening.json
+bot.log
+.DS_Store
